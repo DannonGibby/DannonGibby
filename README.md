@@ -2,9 +2,9 @@
 ## I'm Dannon Gibby
 **Software Engineer | Web Development | Automation | Data Solutions**
 
-🎓 Bachelor’s in Computer Science 
-💻 Background in software development, automation, and data-driven applications
-🌱 Currently building a portfolio focused on practical business solutions
+- 🎓 Bachelor’s in Computer Science 
+- 💻 Background in software development, automation, and data-driven applications
+- 🌱 Currently building a portfolio focused on practical business solutions
 
 ---
 
@@ -12,16 +12,16 @@
 I help businesses and individuals streamline workflows, modernize applications, and gain insights from data through tailored software solutions.
 
 **Core services I offer:**
-**🌐 Web Development:** Building modern, user-friendly websites and applications
-**⚡Automation Scripts:** Creating custom scripts to save time and reduce manual work
-**📊 Data & ML Solutions:** Data analysis, visualization, and predictive modeling
+- **🌐 Web Development:** Building modern, user-friendly websites and applications
+- **⚡Automation Scripts:** Creating custom scripts to save time and reduce manual work
+- **📊 Data & ML Solutions:** Data analysis, visualization, and predictive modeling
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages & Frameworks:** Java, Python, C++, JavaScript, Angular, Spring, Flask
-**Tools & Platforms:** Git, GitHub, Jupyter Notebook, Streamlit, SQL/PostgreSQL
-**Other Skills:** Data structures & algorithms, APIs, workflow automation
+- **Languages & Frameworks:** Java, Python, C++, JavaScript, Angular, Spring, Flask
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Streamlit, SQL/PostgreSQL
+- **Other Skills:** Data structures & algorithms, APIs, workflow automation
 
 ---
 <!--
