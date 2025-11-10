@@ -28,15 +28,13 @@ I help businesses and individuals streamline workflows, modernize applications, 
 UPDATE LINKS
 -->
 ## 📌 Featured Projects
-- **[Hotel Scheduling System](#)** – Java + Angular app for multithreaded scheduling with time zone + currency conversions
-- **[Automation Script Sample](#)** – Python automation to streamline repetitive workflows
-- **[Employee Attrition Prediction](#)** – ML model + Streamlit dashboard for HR analytics
+- **[Appointment Scheduler](https://github.com/DannonGibby/appointment-frontend)** – Full Stack appointment management system featuring a React + Tailwind frontend, RESTful Spring Boot backend, and live cloud deployment on Render. Demonstrates full lifecycle development, from API design to responsive UI.
 
 ---
 
 ## 📫 Let’s Connect
 - 📧 Email: **dannon.m.gibby@gmail.com**
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](http://www.linkedin.com/in/dannon-gibby)
 - 🌐 [Portfolio Website](#)(coming soon)
 
 ---
