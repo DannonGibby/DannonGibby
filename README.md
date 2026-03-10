@@ -45,7 +45,7 @@ Demonstrates full lifecycle development including backend architecture, frontend
 
 ---
 
-### **[StockTrack Inventory API](https://github.com/DannonGibby/stocktrack-api)**
+### **[StockTrack Inventory API][(https://github.com/DannonGibby/StockTrack-backend)**
 Backend inventory management API built with **Java and Spring Boot**.
 
 Features include:
